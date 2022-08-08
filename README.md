@@ -6,7 +6,7 @@ I’m interested in:
 - aviation (virtual pilot on Boeing 737NG with home cockpit),  
 - astronomy and astrophotography (Sky-Watcher Maksutov-Cassegrain 127/1500 telescope with ZWO ASI 462MC planetary camera),  
 - space exploration (listen International Space Station with RTL-SDR),  
-- and motorcycle trips around Europe.
+- motorcycle trips around Europe.
    
 I’m currently learning Python with Flask, Django, Tkinter and REST API. Then I would like to learn Pandas.
 
