@@ -3,7 +3,7 @@ Hi, I’m Arczi.
 I'm working as a SysOp for last 13 years: Microsoft Windows, Windows Server, Active Directory, DHCP, DNS, networks, VMware etc.
 
 I’m interested in:
-   aviation (virtual pilot on Boeing 737NG with home cockpit),
+   aviation (virtual pilot on Boeing 737NG with home cockpit),\
    astrophotography (Sky-Watcher Maksutov-Cassegrain 127/1500 telescope with ZWO ASI 462MC planetary camera),
    space exploration (listen International Space Station with RTL-SDR),
    and motorcycle trips around Europe.
