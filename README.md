@@ -1,6 +1,7 @@
 Hi, I’m Arczi.
 
 Currently I'm Junior Python Developer.
+
 Earlier, I'm working as a SysOp for last 14 years: Microsoft Windows, Windows Server, Active Directory, DHCP, DNS, networks, VMware etc.
 
 I’m interested in:  
