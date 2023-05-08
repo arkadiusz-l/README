@@ -9,5 +9,3 @@ I’m interested in:
 - astronomy and astrophotography (Sky-Watcher Maksutov-Cassegrain 127/1500 telescope with ZWO ASI 462MC planetary camera),  
 - space exploration and astronautics (listen International Space Station with RTL-SDR),  
 - motorcycle trips around Europe.
-   
-I’m currently learning Python.
