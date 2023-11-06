@@ -1,4 +1,4 @@
-Hi, I’m Arczi.
+Hi, I’m Arek.
 
 Currently I'm Junior Python Developer.
 
